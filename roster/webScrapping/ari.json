@@ -1,0 +1,141 @@
+{
+  "pitchers": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39878.png&h=80&w=110&scale=crop",
+      "name": "Corbin Burnes",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39910.png&h=80&w=110&scale=crop",
+      "name": "Zac Gallen",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41432.png&h=80&w=110&scale=crop",
+      "name": "Kevin Ginkel",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33636.png&h=80&w=110&scale=crop",
+      "name": "Kendall Graveman",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4297972.png&h=80&w=110&scale=crop",
+      "name": "Bryce Jarvis",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32968.png&h=80&w=110&scale=crop",
+      "name": "Merrill Kelly",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33691.png&h=80&w=110&scale=crop",
+      "name": "Joe Mantiply",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5116851.png&h=80&w=110&scale=crop",
+      "name": "Justin Martinez",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38173.png&h=80&w=110&scale=crop",
+      "name": "Jordan Montgomery",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4916269.png&h=80&w=110&scale=crop",
+      "name": "Ryne Nelson",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4721302.png&h=80&w=110&scale=crop",
+      "name": "Brandon Pfaadt",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/36201.png&h=80&w=110&scale=crop",
+      "name": "A.J. Puk",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32675.png&h=80&w=110&scale=crop",
+      "name": "Eduardo Rodriguez",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38628.png&h=80&w=110&scale=crop",
+      "name": "Ryan Thompson",
+      "perfil": "RHP"
+    }
+  ],
+  "catchers": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40851.png&h=80&w=110&scale=crop",
+      "name": "Jose Herrera"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42464.png&h=80&w=110&scale=crop",
+      "name": "Gabriel Moreno"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37637.png&h=80&w=110&scale=crop",
+      "name": "Rene Pinto"
+    }
+  ],
+  "infielders": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41345.png&h=80&w=110&scale=crop",
+      "name": "Blaze Alexander"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32512.png&h=80&w=110&scale=crop",
+      "name": "Ketel Marte"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/35066.png&h=80&w=110&scale=crop",
+      "name": "Josh Naylor"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41355.png&h=80&w=110&scale=crop",
+      "name": "Geraldo Perdomo"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32367.png&h=80&w=110&scale=crop",
+      "name": "Eugenio Suarez"
+    }
+  ],
+  "outfielders": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42404.png&h=80&w=110&scale=crop",
+      "name": "Corbin Carroll"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31399.png&h=80&w=110&scale=crop",
+      "name": "Randal Grichuk"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/36040.png&h=80&w=110&scale=crop",
+      "name": "Lourdes Gurriel Jr."
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39899.png&h=80&w=110&scale=crop",
+      "name": "Garrett Hampson"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41197.png&h=80&w=110&scale=crop",
+      "name": "Jake McCarthy"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40767.png&h=80&w=110&scale=crop",
+      "name": "Pavin Smith"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41215.png&h=80&w=110&scale=crop",
+      "name": "Alek Thomas"
+    }
+  ],
+  "designatedHitter": []
+}

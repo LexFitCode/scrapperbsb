@@ -1,0 +1,136 @@
+{
+  "pitchers": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34401.png&h=80&w=110&scale=crop",
+      "name": "Matthew Boyd",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/30189.png&h=80&w=110&scale=crop",
+      "name": "Ryan Brasier",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41516.png&h=80&w=110&scale=crop",
+      "name": "Ben Brown",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5185133.png&h=80&w=110&scale=crop",
+      "name": "Porter Hodge",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5134630.png&h=80&w=110&scale=crop",
+      "name": "Shota Imanaga",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39816.png&h=80&w=110&scale=crop",
+      "name": "Julian Merryweather",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41324.png&h=80&w=110&scale=crop",
+      "name": "Eli Morgan",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39646.png&h=80&w=110&scale=crop",
+      "name": "Nate Pearson",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33072.png&h=80&w=110&scale=crop",
+      "name": "Ryan Pressly",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33950.png&h=80&w=110&scale=crop",
+      "name": "Colin Rea",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41022.png&h=80&w=110&scale=crop",
+      "name": "Justin Steele",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31258.png&h=80&w=110&scale=crop",
+      "name": "Jameson Taillon",
+      "perfil": "RHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32440.png&h=80&w=110&scale=crop",
+      "name": "Caleb Thielbar",
+      "perfil": "LHP"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41086.png&h=80&w=110&scale=crop",
+      "name": "Keegan Thompson",
+      "perfil": "RHP"
+    }
+  ],
+  "catchers": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38905.png&h=80&w=110&scale=crop",
+      "name": "Miguel Amaya"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32797.png&h=80&w=110&scale=crop",
+      "name": "Carson Kelly"
+    }
+  ],
+  "infielders": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32273.png&h=80&w=110&scale=crop",
+      "name": "Jon Berti"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40462.png&h=80&w=110&scale=crop",
+      "name": "Vidal Brujan"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42415.png&h=80&w=110&scale=crop",
+      "name": "Michael Busch"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41219.png&h=80&w=110&scale=crop",
+      "name": "Nico Hoerner"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4867667.png&h=80&w=110&scale=crop",
+      "name": "Matt Shaw"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34895.png&h=80&w=110&scale=crop",
+      "name": "Dansby Swanson"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/29607.png&h=80&w=110&scale=crop",
+      "name": "Justin Turner"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4424290.png&h=80&w=110&scale=crop",
+      "name": "Gage Workman"
+    }
+  ],
+  "outfielders": [
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4717833.png&h=80&w=110&scale=crop",
+      "name": "Pete Crow-Armstrong"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34945.png&h=80&w=110&scale=crop",
+      "name": "Ian Happ"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4142424.png&h=80&w=110&scale=crop",
+      "name": "Seiya Suzuki"
+    },
+    {
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34967.png&h=80&w=110&scale=crop",
+      "name": "Kyle Tucker"
+    }
+  ]
+}
